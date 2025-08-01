@@ -1,4 +1,4 @@
-## USE AT YOUR ON RISK!!
+## USE AT YOUR OWN RISK!! [Works only with xeno and swift and solara]
 
 <!--
 **seedhubSTFO/SeedHubSTFO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
